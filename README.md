@@ -38,7 +38,6 @@
   Contact me @[Email:](leefboettcher@gmail.com) for further questions.
 
 ## Video/Tutorial
-  [Play!](./assets/tutorial.mp4)
-
 https://user-images.githubusercontent.com/107278994/185813999-9b38941d-23d4-4500-8665-8d1d7630bee7.mp4
+or [Download!](./assets/tutorial.mp4)
 
