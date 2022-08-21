@@ -1,3 +1,5 @@
+## This project is a readme-generator as seen below. This is just pretext informing the reader that the project outcome will look like -below- aside from the video which was added in manually. Else, another look at a sample readme can be found within the Dist folder above, and a file called sample_readme.md!
+
 # Readme-Generator 
   [![License:](https://img.shields.io/badge/License-Apache-yellowgreen)](https://choosealicense.com/licenses/apache-2.0/)
 
