@@ -13,22 +13,21 @@
 
 
 ## Description
-      The Readme-Generator is a helper app to quickly produce professional Readme files for you GitHub repositories!
+  This app is here to help anyone create a professional readme.md file for their GitHub repository!
 
 ## Installation Info
-        A quick clone/copy to your own coding tool, and run Node.js!
+  Clone the files from this repository to your own system.
 
 ## Usage Information
-        Node.js in the terminal.
+  Run "npm i" to begin the basic requirement installation.
 
 ## Contribution Guide
-        By testing out ideas and then contacting me to collab!
+  They may contact me via Github profile or my email.
 
 ## Testing Instructions
-        Node.js in the terminal.
+  Run "node index.js" when you're installed!
 
 ## License
-  Apache
   Apache: A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 ## GitHub Username
@@ -37,3 +36,6 @@
 
 ## Questions
   Contact me @[Email:](leefboettcher@gmail.com) for further questions.
+
+## Video/Tutorial
+  [Play!](./assets/tutorial.mp4)
